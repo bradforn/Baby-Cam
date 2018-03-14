@@ -3,8 +3,8 @@ This a Baby Cam that runs off a Raspberry Pi 3. The BabyCam relays the h.264 vid
 
 
 Project requirements:
-
   -Raspberry Pi 3 or Pi Zero 
+	
   -Raspberry Pi 3 Accessories 
     -H.264 camera (Note this version does not work with a webcam yet(This feature is not going to be added anytime soon))  
     -Raspberry Pi 3 Case (Optional) 
