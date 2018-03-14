@@ -19,4 +19,6 @@ Project requirements:
 		  (Note: Ubuntu MATE does not work on a Raspberry Pi Zero)
           
     
+   
+Suggest using Porteus Kiosk Linux for a permanent viewing station. 
         
